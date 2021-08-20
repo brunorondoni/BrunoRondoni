@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @BrunoRondoni
-- 👀 I’m interested in ...JavaScript and node.JS
-- 🌱 I’m currently learning ... HTM, CSS and JavaScript.
+## Welcome to my github! 
+Bruno Rondoni
