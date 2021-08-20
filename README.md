@@ -19,7 +19,8 @@
  
  ##
  
- ![Snake animation](https://github.com/brunorondoni/BrunoRondoni/blob/main/.github/workflows/main.yml)
+
+ ![Snake animation](https://github.com/brunorondoni/brunorondoni/blob/output/github-contribution-grid-snake.svg)
 
 
  
