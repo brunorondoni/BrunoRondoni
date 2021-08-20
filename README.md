@@ -19,7 +19,7 @@
  
  ##
  
- <!-- ![Snake animation](https://github.com/brunorondoni/brunorondoni/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/brunorondoni/BrunoRondoni/blob/output/github-contribution-grid-snake.svg)
 
 
  
