@@ -18,10 +18,3 @@
 </div><br>
  
  ##
- 
-
- ![Snake animation](https://github.com/brunorondoni/brunorondoni/blob/output/github-contribution-grid-snake.svg)
-
-
- 
-
